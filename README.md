@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anany Sharma</h1>
+<h1 align="center">Hi 👋, I'm Ananya Sharma</h1>
 <h3 align="center">SDE intern @Hexaware Technologies</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=anany057&label=Profile%20views&color=0e75b6&style=flat" alt="anany057" /> </p>
