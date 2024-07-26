@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananya Sharma</h1>
-<h3 align="center">SDE intern @Hexaware Technologies</h3>
+<h3 align="center"> Ex-SDE intern @Hexaware Technologies</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=anany057&label=Profile%20views&color=0e75b6&style=flat" alt="anany057" /> </p>
 <p align="left">
-I am a Software Engineer Intern at Hexaware Technologies India, with a deep passion for programming and problem-solving. As a tech enthusiast, I am always eager to explore new technologies. I enjoy approaching problems from a user’s perspective and strive to deliver the best possible user experience. </p>
+I have interned  at Hexaware Technologies India as a software intern, with a deep passion for programming and problem-solving. As a tech enthusiast, I am always eager to explore new technologies. I enjoy approaching problems from a user’s perspective and strive to deliver the best possible user experience. </p>
 
 - 🔭 I’m currently working on [Outcome Mapping Automation Tool](https://outcome-mapping-tool.vercel.app/#)
 
