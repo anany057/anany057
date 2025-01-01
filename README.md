@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya Sharma</h1>
-<h3 align="center"> Ex-SDE intern @Hexaware Technologies</h3>
+<h3 align="center">Upcoming Data analyst @
+DecisionTree Analytics & Services | Ex-SDE intern @Hexaware Technologies</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=anany057&label=Profile%20views&color=0e75b6&style=flat" alt="anany057" /> </p>
 <p align="left">
@@ -9,7 +10,7 @@ I have interned  at Hexaware Technologies India as a software intern, with a dee
 
 - 🤝 I'm open to collaborating on **React JS applications and Data Structures based Projects.**
 
-- 💬 Ask me about **DSA,React,Javascript,Website Development**
+- 💬 Ask me about **DSA,Data Analysis,React,Javascript,Website Development**
 
 - 📫 How to reach me **anany057@gmail.com**
 
