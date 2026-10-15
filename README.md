@@ -11,11 +11,11 @@ I'm a data analyst with a software engineering background, moving into data engi
 - 🛠️ Leveling up in data engineering: Airflow, Snowflake, Databricks, PySpark, data modelling
 
 ## 🚀 Projects
-**[Tesla Vehicle Telemetry ETL Pipeline](https://github.com/anany057)**
+**[Tesla Vehicle Telemetry ETL Pipeline](https://github.com/anany057/connected-vehicle-telemetry-etl)**
 Airflow DAG (Docker) that pulls JSONL vehicle events from Hive-partitioned S3 paths, validates them with pydantic, transforms them in pandas into Parquet and loads them into Snowflake through RAW → STAGING → CURATED layers. Idempotent loads using a processed-files ledger and `MERGE`, key-pair auth, a read-only IAM user, and pytest coverage.
 `Airflow` `Snowflake` `S3` `Python` `pandas` `pydantic` `Parquet` `Docker` `pytest`
 
-**[IPL Data Analytics Pipeline](https://github.com/anany057)**
+**[IPL Data Analytics Pipeline](https://github.com/anany057/ipl_data_engineer_pipeline)**
 PySpark pipeline that ingests IPL datasets from S3, cleans and transforms them, and uses Spark SQL window functions and aggregations to produce match, player and team performance metrics.
 `PySpark` `Spark SQL` `Python` `AWS S3`
 
